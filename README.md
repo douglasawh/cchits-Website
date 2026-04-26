@@ -37,7 +37,7 @@ CCHits.net is a site promoting and featuring [Creative Commons](http://creativec
 
 # Get Involved
 
-> **Note**: The official CCHits infrastructure is no longer active. The original team can no longer be reached at the addresses mentioned in this document.
+> **Note**: The official CCHits infrastructure is no longer active. The original team will probably just point you back here.
 
 If you want to get involved with this fork, please open an issue or submit a pull request on this repository.
 
