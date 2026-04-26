@@ -1,11 +1,16 @@
 # Welcome to CCHits
+
+> **Important Notice**: This repository contains the code for CCHits.net, originally created by the CCHits team. The original team is no longer maintaining this project. This fork exists to keep the code alive and potentially relaunch the service. Pull requests to the original repo (CCHits/Website) will not be accepted as that repo is no longer active.
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 Where *you* make the charts
 
 # Project status
 
-![Build Status](https://github.com/CCHits/Website/actions/workflows/default.yml/badge.svg)
+![Build Status](https://github.com/douglasawh/cchits-Website/actions/workflows/default.yml/badge.svg)
+
+> This is a community fork of the original CCHits project. The original team (Jon "The Nice Guy" Spriggs and contributors) is no longer maintaining the code. This fork is independently maintained and is not affiliated with the original team.
 
 # Goals
 
@@ -32,17 +37,19 @@ CCHits.net is a site promoting and featuring [Creative Commons](http://creativec
 
 # Get Involved
 
-If you want to get involved, please contact show@cchits.net to talk about submitting tracks, creating shows and generally doing more with CCHits.net
+> **Note**: The official CCHits infrastructure is no longer active. The original team can no longer be reached at the addresses mentioned in this document.
+
+If you want to get involved with this fork, please open an issue or submit a pull request on this repository.
 
 # Source
 
-The source code for everything driving this site is available in the Git Repositories at [Github](http://github.com/cchits/website).
+The source code for everything driving this site is available in this Git Repository.
 
-Patches to either can either be e-mailed to code@cchits.net, or you can clone a repository, make your changes and then raise a merge request through the site.
+> **This is no longer the original CCHits repo** - the old repo at github.com/CCHits/Website is no longer maintained. See the important notice at the top of this document.
 
 # API
 
-Please see the [full API documentation](https://github.com/CCHits/Website/wiki/Using-the-API).
+Please see the [full API documentation](./wiki/Using-the-API) in this repository (or the original wiki if available).
 
 # Vote Adjustments
 
