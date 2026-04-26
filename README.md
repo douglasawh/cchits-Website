@@ -1,6 +1,6 @@
 # Welcome to CCHits
 
-> **Important Notice**: This repository contains the code for CCHits.net, originally created by the CCHits team. The original team is no longer maintaining this project. This fork exists to keep the code alive and potentially relaunch the service. Pull requests to the original repo (CCHits/Website) will not be accepted as that repo is no longer active.
+> **Important Notice**: This repository contains the code for CCHits.net, originally created by the CCHits team. The original team is no longer maintaining this project. This fork exists to keep the code alive and potentially relaunch the service. As far as we know, pull requests to the original repo (CCHits/Website) will not be accepted as that repo is no longer active.
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
