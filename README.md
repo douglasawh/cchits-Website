@@ -77,7 +77,7 @@ As this project was originally supposed to create audio to be used at events, I 
 * The track does not advocate crime or gun use (which is a criminal act in some countries).
 
 Obviously, not everyone agrees with this definition, and I don't upload every track. Some people will mark a track as being non-work-safe if it contains language they don't understand (in case it breaches one of the recommendations), or will mark a track as being work-or-family safe even if it breaches one of the above recommendations. If you disagree with how the track is marked, please feel free to contact show@cchits.net and I'll re-listen to the track, and possibly change it's flag, if I think it's appropriate.
-## Contributors ✨
+## Former Contributors (standing on the shoulders of giants) ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
