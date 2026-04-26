@@ -4,7 +4,7 @@
  * the artists who produce it and anyone or anywhere that plays it.
  * These files are used to generate the site.
  *
- * PHP version 5
+ * PHP version 7.4+
  *
  * @category Default
  * @package  CCHitsClass

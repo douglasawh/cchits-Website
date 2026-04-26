@@ -3,6 +3,20 @@
     "description": "CCHits website",
     "type": "project",
     "license": "AGPLv3",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CCHits\\": "CLASSES/"
+        },
+        "files": [
+            "CLASSES/autoloader.php"
+        ]
+    },
     "support": {
         "email": "code@cchits.net",
         "issues": "https://github.com/CCHits/Website/issues",

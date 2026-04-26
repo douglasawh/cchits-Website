@@ -4,7 +4,7 @@
  * the artists who produce it and anyone or anywhere that plays it.
  * These files are used to generate the site.
  *
- * PHP version 5
+ * PHP version 7.4+
  *
  * @category Default
  * @package  CCHitsClass
@@ -31,7 +31,7 @@ class UI
     protected $arrUri = null;
     protected $arrLibs = null;
 
-    protected static $http_status_codes = Array(
+    protected static $http_status_codes = [
         100 => 'Continue',
         101 => 'Switching Protocols',
         200 => 'OK',

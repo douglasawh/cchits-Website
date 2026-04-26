@@ -4,10 +4,10 @@ on: [ push, pull_request ]
 
 jobs:
         default:
-                runs-on: ubuntu-18.04
+                runs-on: ubuntu-latest
                 strategy:
                         matrix:
-                                php: [ 7.4 ]
+                                php: [ '7.4', '8.0', '8.1', '8.2' ]
 
                 name: Default checks with php ${{ matrix.php }}
                 steps:

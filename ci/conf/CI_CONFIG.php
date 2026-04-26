@@ -6,7 +6,7 @@
  *
  * This file contains the local modifications to the config settings
  *
- * PHP version 5
+ * PHP version 7.4+
  *
  * @category Default
  * @package  CCHitsClass

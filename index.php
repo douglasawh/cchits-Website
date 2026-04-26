@@ -4,7 +4,7 @@
  * the artists who produce it and anyone or anywhere that plays it.
  * These files are used to generate the site.
  *
- * PHP version 5
+ * PHP version 7.4+
  *
  * @category Default
  * @package  CCHitsClass
@@ -120,7 +120,7 @@ try {
 
                 // Protect ourselves against CSRF
                 if ($state != $csrf_token) {
-                    header('HTTP/1.1 401 Unauthorized', true, 401);
+                    http_response_code(401);
                     exit(0);
                 }
 
